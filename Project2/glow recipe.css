@@ -1,0 +1,12 @@
+
+.box-img{
+    height: 300px;
+    width:300px;
+    background-size: cover;
+}
+.para{
+    color:blue;
+}
+.price{
+    color:darkorange;
+}
